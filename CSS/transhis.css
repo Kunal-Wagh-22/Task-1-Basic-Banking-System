@@ -1,0 +1,32 @@
+.table
+{
+    background-color: white;
+    border: solid transparent;
+    border-radius: 10px;
+    margin-top: 5%;
+
+}
+.viewer
+{
+    background-color: rgb(32, 102, 252);
+    color: white;
+    padding: 2%;
+    text-decoration: none;
+    margin-right: 5%;
+    text-align: center;
+    border:  solid  transparent;
+    border-radius: 10px;
+}
+
+.deleteb
+{
+      background-color: rgb(250, 45, 45);
+        color: white;
+        padding: 2%;
+        text-decoration: none;
+        padding: 2%;
+        text-align: center;
+        border:  solid  transparent;
+        border-radius: 10px;
+    
+}

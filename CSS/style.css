@@ -1,0 +1,67 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: 'Inter', sans-serif;
+    background: #000046;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.formstyle
+{
+    background-color: white;
+    margin-top:10% ;
+    border: solid transparent;
+    border-radius: 10px;
+    height: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+.title
+{
+    text-align: center;
+   font-weight: 600;
+}
+.formdiv
+{
+    align-items: center ;
+}
+.cusnav
+{
+    background: rgb(31, 31, 31);
+   
+}
+.error
+{
+   
+    background-color: white;
+    margin-top: 10%;
+    color: rgb(151, 1, 1);
+    border: solid transparent;
+    border-radius: 10px;
+    
+}
+.danger-icon
+{
+    color: red;
+}
+.card-container
+{
+
+    height: 60vh;
+}
+.marginf
+{
+    background-color: white;
+    margin-top: 10%;
+}
+nav
+{position: relative;}

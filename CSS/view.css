@@ -1,0 +1,24 @@
+#info
+{
+    background-color: white;
+
+  border: solid transparent;
+  border-radius: 10px;
+}
+p{
+    font-size: 30px;
+}
+.places p
+{
+    display: inline-flex;
+    margin-right: 5%;
+    font-size: 30px;
+   
+}
+@media screen and (max-width:500px){
+    .places p
+{
+   
+    display: flex;
+}
+}

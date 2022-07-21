@@ -1,0 +1,21 @@
+.container
+{
+    background-color: white;
+    margin-top: 7%;
+    
+    /* width: 50%; */
+    padding: 2%;
+    border-radius: 10px;
+}
+body
+{
+    font-family: 'Inter', sans-serif;
+   
+}
+@media screen and (max-width:500px) 
+{
+    .container
+    {
+        width: 85%;
+    }    
+}
